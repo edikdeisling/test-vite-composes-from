@@ -2,7 +2,7 @@
   "name": "test-vite-alias-index",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --debug",
     "build": "tsc && vite build",
     "serve": "vite preview"
   },
